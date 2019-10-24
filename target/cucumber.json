@@ -1,0 +1,852 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5882104138,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.setup()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Submit valid data via contact us form",
+        "description": "",
+        "id": "submit-data-to-webdriveruniversity.com-using-contact-us-form;submit-valid-data-via-contact-us-form",
+        "after": [
+          {
+            "result": {
+              "duration": 694854431,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6750942106,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I access \"http://webdriveruniversity.com/Contact-Us/contactus.html\" contact us form",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://webdriveruniversity.com/Contact-Us/contactus.html",
+                  "offset": 10
+                }
+              ],
+              "location": "ContactUs_Steps.i_access_contact_us_form(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 249265586,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I enter a valid first name",
+            "match": {
+              "location": "ContactUs_Steps.i_enter_a_valid_first_name()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 174076627,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I enter a valid last name",
+            "match": {
+              "location": "ContactUs_Steps.i_enter_a_valid_last_name(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Woods",
+                  "Jackson",
+                  "Jones",
+                  "Medina Coca"
+                ],
+                "line": 6
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 179089788,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter a valid email address",
+            "match": {
+              "location": "ContactUs_Steps.i_enter_a_valid_email_address()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 191534714,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter comments",
+            "match": {
+              "location": "ContactUs_Steps.i_enter_comments(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "example comment one",
+                  "example comment two"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2226686084,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on the sumit button",
+            "match": {
+              "location": "ContactUs_Steps.i_click_on_the_sumit_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 51474029,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the information should successfully be submitted via the contact us form.",
+            "match": {
+              "location": "ContactUs_Steps.the_information_should_successfully_be_submitted_via_the_contact_us_form()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Submit data to webdriveruniversity.com using contact us form",
+    "description": "",
+    "id": "submit-data-to-webdriveruniversity.com-using-contact-us-form",
+    "keyword": "Feature",
+    "uri": "ContactUs.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3263263791,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.setup()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "validate promo code alert is visible when clickin ob the special offers link",
+        "description": "",
+        "id": "products;validate-promo-code-alert-is-visible-when-clickin-ob-the-special-offers-link;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 830904446,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3115019209,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user navigates to \"http://webdriveruniversity.com/Page-Object-Model/products.html\" website",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://webdriveruniversity.com/Page-Object-Model/products.html",
+                  "offset": 19
+                }
+              ],
+              "location": "Products_Steps.user_navigates_to_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 873010136,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on \"//*[@id\u003d\u0027amp-img\u0027]\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "//*[@id\u003d\u0027amp-img\u0027]",
+                  "offset": 16
+                }
+              ],
+              "location": "Products_Steps.user_clicks_on(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1850386909,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should be presented with a promo alert",
+            "match": {
+              "location": "Products_Steps.user_should_be_presented_with_a_promo_alert()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3345631335,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.setup()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "validate promo code alert is visible when clickin ob the special offers link",
+        "description": "",
+        "id": "products;validate-promo-code-alert-is-visible-when-clickin-ob-the-special-offers-link;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 785009883,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3430788788,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user navigates to \"http://webdriveruniversity.com/Page-Object-Model/products.html\" website",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://webdriveruniversity.com/Page-Object-Model/products.html",
+                  "offset": 19
+                }
+              ],
+              "location": "Products_Steps.user_navigates_to_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 255625746,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on \"//*[@id\u003d\u0027camera-img\u0027]\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "//*[@id\u003d\u0027camera-img\u0027]",
+                  "offset": 16
+                }
+              ],
+              "location": "Products_Steps.user_clicks_on(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1660319083,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should be presented with a promo alert",
+            "match": {
+              "location": "Products_Steps.user_should_be_presented_with_a_promo_alert()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3275485862,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.setup()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "validate promo code alert is visible when clickin ob the special offers link",
+        "description": "",
+        "id": "products;validate-promo-code-alert-is-visible-when-clickin-ob-the-special-offers-link;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 895253241,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3752512311,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user navigates to \"http://webdriveruniversity.com/Page-Object-Model/products.html\" website",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://webdriveruniversity.com/Page-Object-Model/products.html",
+                  "offset": 19
+                }
+              ],
+              "location": "Products_Steps.user_navigates_to_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 433915799,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on \"//*[@id\u003d\u0027laptop1\u0027]\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "//*[@id\u003d\u0027laptop1\u0027]",
+                  "offset": 16
+                }
+              ],
+              "location": "Products_Steps.user_clicks_on(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1097706753,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should be presented with a promo alert",
+            "match": {
+              "location": "Products_Steps.user_should_be_presented_with_a_promo_alert()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3344141174,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.setup()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "validate promo code alert is visible when clickin ob the special offers link",
+        "description": "",
+        "id": "products;validate-promo-code-alert-is-visible-when-clickin-ob-the-special-offers-link;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 865315672,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2769593097,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user navigates to \"http://webdriveruniversity.com/Page-Object-Model/products.html\" website",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://webdriveruniversity.com/Page-Object-Model/products.html",
+                  "offset": 19
+                }
+              ],
+              "location": "Products_Steps.user_navigates_to_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 714917655,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on \"//*[@id\u003d\u0027laptop2\u0027]\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "//*[@id\u003d\u0027laptop2\u0027]",
+                  "offset": 16
+                }
+              ],
+              "location": "Products_Steps.user_clicks_on(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1949997444,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should be presented with a promo alert",
+            "match": {
+              "location": "Products_Steps.user_should_be_presented_with_a_promo_alert()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3262235912,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.setup()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "validate promo code alert is visible when clickin ob the special offers link",
+        "description": "",
+        "id": "products;validate-promo-code-alert-is-visible-when-clickin-ob-the-special-offers-link;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 774652099,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3654878197,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user navigates to \"http://webdriveruniversity.com/Page-Object-Model/products.html\" website",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://webdriveruniversity.com/Page-Object-Model/products.html",
+                  "offset": 19
+                }
+              ],
+              "location": "Products_Steps.user_navigates_to_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 376918724,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on \"//*[@id\u003d\u0027nintendo\u0027]\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "//*[@id\u003d\u0027nintendo\u0027]",
+                  "offset": 16
+                }
+              ],
+              "location": "Products_Steps.user_clicks_on(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 911164396,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should be presented with a promo alert",
+            "match": {
+              "location": "Products_Steps.user_should_be_presented_with_a_promo_alert()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3196588427,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.setup()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "validate promo code alert is visible when clickin ob the special offers link",
+        "description": "",
+        "id": "products;validate-promo-code-alert-is-visible-when-clickin-ob-the-special-offers-link;;7",
+        "after": [
+          {
+            "result": {
+              "duration": 816703485,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3873447028,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user navigates to \"http://webdriveruniversity.com/Page-Object-Model/products.html\" website",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://webdriveruniversity.com/Page-Object-Model/products.html",
+                  "offset": 19
+                }
+              ],
+              "location": "Products_Steps.user_navigates_to_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 152387132,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on \"//*[@id\u003d\u0027graphic-card\u0027]\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "//*[@id\u003d\u0027graphic-card\u0027]",
+                  "offset": 16
+                }
+              ],
+              "location": "Products_Steps.user_clicks_on(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1437775901,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should be presented with a promo alert",
+            "match": {
+              "location": "Products_Steps.user_should_be_presented_with_a_promo_alert()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3246614256,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.setup()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "validate promo code alert is visible when clickin ob the special offers link",
+        "description": "",
+        "id": "products;validate-promo-code-alert-is-visible-when-clickin-ob-the-special-offers-link;;8",
+        "after": [
+          {
+            "result": {
+              "duration": 829342703,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4439109500,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user navigates to \"http://webdriveruniversity.com/Page-Object-Model/products.html\" website",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://webdriveruniversity.com/Page-Object-Model/products.html",
+                  "offset": 19
+                }
+              ],
+              "location": "Products_Steps.user_navigates_to_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 125744772,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on \"//*[@id\u003d\u0027computer\u0027]\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "//*[@id\u003d\u0027computer\u0027]",
+                  "offset": 16
+                }
+              ],
+              "location": "Products_Steps.user_clicks_on(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 938913974,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should be presented with a promo alert",
+            "match": {
+              "location": "Products_Steps.user_should_be_presented_with_a_promo_alert()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3329575255,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.setup()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "validate promo code alert is visible when clickin ob the special offers link",
+        "description": "",
+        "id": "products;validate-promo-code-alert-is-visible-when-clickin-ob-the-special-offers-link;;9",
+        "after": [
+          {
+            "result": {
+              "duration": 645435808,
+              "status": "passed"
+            },
+            "match": {
+              "location": "MasterHooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3013840232,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user navigates to \"http://webdriveruniversity.com/Page-Object-Model/products.html\" website",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://webdriveruniversity.com/Page-Object-Model/products.html",
+                  "offset": 19
+                }
+              ],
+              "location": "Products_Steps.user_navigates_to_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 254664864,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on \"//*[@id\u003d\u0027boombox\u0027]\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "//*[@id\u003d\u0027boombox\u0027]",
+                  "offset": 16
+                }
+              ],
+              "location": "Products_Steps.user_clicks_on(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1502892696,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should be presented with a promo alert",
+            "match": {
+              "location": "Products_Steps.user_should_be_presented_with_a_promo_alert()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Products",
+    "description": "",
+    "id": "products",
+    "keyword": "Feature",
+    "uri": "Products.feature"
+  }
+]

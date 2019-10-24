@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="089c2144-f70f-41c6-9710-84f7cc9afd38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/Page_Objects/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Page_Objects/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Page_Objects/ContactUs_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Page_Objects/ContactUs_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Page_Objects/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Page_Objects/ContactUs_Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Page_Objects/Products_Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runners/Main_Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Step_Definitions/ContactUs_Steps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Step_Definitions/MasterHooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Step_Definitions/Products_Steps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/DriverFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/src/test/java/Runners/Main_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/src/test/java/Runners/Main_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/cucumber/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/All Test Suite/luis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/All Test Suite/luis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/luis.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/All Test Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/test-classes/Runners/Main_Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/test-classes/Runners/Main_Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/testng.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1SCFeUQWQNbRNdbzNMGs1CvvFXY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\[Cucumber]\Gianni Bruno - [Full course] Cucumber Selenium Java\Section49\Section49_lecture124\src\test\java\Drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Main_Runner">
+    <configuration name="Feature: ContactUs" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/ContactUs.feature" />
+      <option name="GLUE" value="Step_Definitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Section49_lecture124" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: ContactUs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Products" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Products.feature" />
+      <option name="GLUE" value="Step_Definitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Section49_lecture124" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Products" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Section49_lecture124" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runners" />
+      <option name="MAIN_CLASS_NAME" value="Runners.Main_Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Main_Runner" />
+        <item itemvalue="Cucumber java.Feature: Products" />
+        <item itemvalue="Cucumber java.Feature: ContactUs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="089c2144-f70f-41c6-9710-84f7cc9afd38" name="Default Changelist" comment="" />
+      <created>1571059765231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571059765231</updated>
+      <workItem from="1571059768885" duration="11872000" />
+      <workItem from="1571081636474" duration="4683000" />
+      <workItem from="1571143354386" duration="9602000" />
+      <workItem from="1571257880910" duration="1734000" />
+      <workItem from="1571259772400" duration="163000" />
+      <workItem from="1571947259372" duration="279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="((NullPointerException)t).stackTrace[1]" custom="java.lang.NullPointerException" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
