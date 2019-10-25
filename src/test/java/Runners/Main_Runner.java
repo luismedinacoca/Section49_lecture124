@@ -14,9 +14,11 @@ import org.testng.annotations.AfterClass;
         glue={"Step_Definitions"},
         dryRun = false, //when dryRun is true, execute the cucumber steps but they are skipped
         monochrome = true,
-        plugin ={"pretty",
-                "html:target/cucumber",
+        format= {"pretty","html:test-output_1",
+                "json:target/cucumber-reports/CucumberTestReport.json"},
+        plugin ={"html:target/cucumber",
                 "json:target/cucumber.json",
+                "json:target/cucumber-reports/CucumberTestReport.json",
                 "com.cucumber.listener.ExtentCucumberFormatter:target/report.html"
         }
 )
