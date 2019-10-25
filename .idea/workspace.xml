@@ -2,22 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="089c2144-f70f-41c6-9710-84f7cc9afd38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire/surefirebooter3397657145855828474.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Page_Objects/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Page_Objects/BasePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Page_Objects/ContactUs_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Page_Objects/ContactUs_Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Page_Objects/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Page_Objects/ContactUs_Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Page_Objects/Products_Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Runners/Main_Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Step_Definitions/ContactUs_Steps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Step_Definitions/MasterHooks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Step_Definitions/Products_Steps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/DriverFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Runners/Main_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runners/Main_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/jquery-1.8.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Page_Objects/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Page_Objects/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Page_Objects/ContactUs_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Page_Objects/ContactUs_Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runners/Main_Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runners/Main_Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/DriverFactory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/src/test/java/Runners/Main_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/src/test/java/Runners/Main_Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/cucumber.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/cucumber/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/All Test Suite/luis.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Section50/Section50_lecture133/target/surefire-reports/All Test Suite/luis.xml" beforeDir="false" />
@@ -57,6 +67,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Section49_lecture124" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -65,7 +78,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1SCFeUQWQNbRNdbzNMGs1CvvFXY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -98,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main_Runner">
+  <component name="RunManager" selected="TestNG.D:/Programming/[Cucumber]/Gianni Bruno - [Full course] Cucumber Selenium Java/Section49/Section49_lecture124/testng.xml">
     <configuration name="Feature: ContactUs" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/ContactUs.feature" />
@@ -150,8 +170,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D:/Programming/[Cucumber]/Gianni Bruno - [Full course] Cucumber Selenium Java/Section49/Section49_lecture124/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Section49_lecture124" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/Programming/[Cucumber]/Gianni Bruno - [Full course] Cucumber Selenium Java/Section49/Section49_lecture124/testng.xml" />
         <item itemvalue="JUnit.Main_Runner" />
         <item itemvalue="Cucumber java.Feature: Products" />
         <item itemvalue="Cucumber java.Feature: ContactUs" />
@@ -174,7 +205,10 @@
       <workItem from="1571143354386" duration="9602000" />
       <workItem from="1571257880910" duration="1734000" />
       <workItem from="1571259772400" duration="163000" />
-      <workItem from="1571947259372" duration="279000" />
+      <workItem from="1571947259372" duration="1018000" />
+      <workItem from="1572011609007" duration="3181000" />
+      <workItem from="1572025184265" duration="1737000" />
+      <workItem from="1572029765390" duration="584000" />
     </task>
     <servers />
   </component>
